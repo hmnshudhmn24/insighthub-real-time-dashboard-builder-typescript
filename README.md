@@ -57,7 +57,3 @@ src/
 ## 📤 Exporting and Sharing
 
 Click the "Export" button to download your dashboard configuration as JSON. You can later import it back or share it with teammates.
-
-## 📜 License
-
-MIT
